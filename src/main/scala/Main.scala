@@ -1,5 +1,3 @@
-package example
-
 import scala.io.StdIn
 
 @main 
